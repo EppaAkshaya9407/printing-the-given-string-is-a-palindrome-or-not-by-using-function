@@ -1,0 +1,1 @@
+# printing-the-given-string-is-a-palindrome-or-not-by-using-function
